@@ -1,0 +1,47 @@
+{
+  "source": "Understat",
+  "retrieved_at": "2026-10-25T18:09:12.293382+00:00",
+  "seasons": [
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "rows": 484,
+  "teams": 130,
+  "leagues": [
+    "Premier League",
+    "La Liga",
+    "Bundesliga",
+    "Serie A",
+    "Ligue 1"
+  ],
+  "source_urls": [
+    "https://understat.com/league/EPL/2021",
+    "https://understat.com/league/EPL/2022",
+    "https://understat.com/league/EPL/2023",
+    "https://understat.com/league/EPL/2024",
+    "https://understat.com/league/EPL/2025",
+    "https://understat.com/league/La_liga/2021",
+    "https://understat.com/league/La_liga/2022",
+    "https://understat.com/league/La_liga/2023",
+    "https://understat.com/league/La_liga/2024",
+    "https://understat.com/league/La_liga/2025",
+    "https://understat.com/league/Bundesliga/2021",
+    "https://understat.com/league/Bundesliga/2022",
+    "https://understat.com/league/Bundesliga/2023",
+    "https://understat.com/league/Bundesliga/2024",
+    "https://understat.com/league/Bundesliga/2025",
+    "https://understat.com/league/Serie_A/2021",
+    "https://understat.com/league/Serie_A/2022",
+    "https://understat.com/league/Serie_A/2023",
+    "https://understat.com/league/Serie_A/2024",
+    "https://understat.com/league/Serie_A/2025",
+    "https://understat.com/league/Ligue_1/2021",
+    "https://understat.com/league/Ligue_1/2022",
+    "https://understat.com/league/Ligue_1/2023",
+    "https://understat.com/league/Ligue_1/2024",
+    "https://understat.com/league/Ligue_1/2025"
+  ]
+}
