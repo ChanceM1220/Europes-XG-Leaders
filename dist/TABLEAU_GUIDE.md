@@ -47,7 +47,7 @@ The website additionally supports a full-coverage-off option, trend charts, a ta
 
 Complete: same CSV and definitions; title, rows and period; author; four matching labels and numbers; shared controls affecting multiple sheets; one-sentence finding; published Tableau Public dashboard; website agreement table and Tableau link.
 
-Pending before submission: public GitHub repository and GitHub Pages URL. The private website preview is not a substitute for GitHub Pages. SUBMISSION.md contains the Tableau link and leaves the two GitHub URLs pending.
+Published public repository: https://github.com/ChanceM1220/Europes-XG-Leaders. Published GitHub Pages website: https://chancem1220.github.io/Europes-XG-Leaders/. SUBMISSION.md contains all four required lines.
 
 ## Official documentation
 

@@ -1,4 +1,4 @@
 Chance Moore
-GitHub repository URL: https://github.com/ChanceM1220/Europes-XG-Leaders
-GitHub Pages live URL: PENDING
-Tableau Public URL: https://public.tableau.com/app/profile/chance.moore/viz/EuropexGLeaders-ChanceMoore/EuropexGLeaders#1
+https://github.com/ChanceM1220/Europes-XG-Leaders
+https://chancem1220.github.io/Europes-XG-Leaders/
+https://public.tableau.com/app/profile/chance.moore/viz/EuropexGLeaders-ChanceMoore/EuropexGLeaders#1

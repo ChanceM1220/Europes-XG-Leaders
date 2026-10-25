@@ -39,7 +39,7 @@ Default filters: all seasons, all leagues, all teams, Require full period on. Ea
 - `dist/tableau-guide.html`: readable step-by-step Tableau instructions.
 - `dist/TABLEAU_GUIDE.md`: downloadable version of those instructions.
 - `dist/README.md`: published copy of this file.
-- `dist/SUBMISSION.md`: four-line submission template; do not submit while any URL is pending.
+- `dist/SUBMISSION.md`: completed four-line Blackboard submission file.
 - `scripts/fetch_data.py`: reproducible Understat extraction using the public data endpoint used by the league pages.
 - `scripts/verify.mjs`: calculation and data-integrity verification.
 - `.openai/hosting.json`: Sites hosting configuration; excluded from the separate GitHub export.
@@ -66,7 +66,7 @@ Native Tableau results were observed on October 25, 2026: default 2.82 xG/game, 
 
 Tableau imports CSV underscores as spaces in display names: `Team_ID` becomes `[Team ID]`, `Total_xG` becomes `[Total xG]`, and `Matches_Played` becomes `[Matches Played]`. Use the displayed names in its calculation editor. The published workbook is the authoritative Tableau result; the build guide remains available for reproduction.
 
-Public repository: https://github.com/ChanceM1220/Europes-XG-Leaders. GitHub Pages deployment is being verified before submission.
+Public repository: https://github.com/ChanceM1220/Europes-XG-Leaders. Live GitHub Pages report: https://chancem1220.github.io/Europes-XG-Leaders/ . The published website agreement table shows all four values matching Tableau.
 
 Official Tableau references: [FIXED LOD and filters](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod_filters.htm), [shared filters](https://help.tableau.com/current/pro/desktop/en-gb/filtering_global.htm).
 
